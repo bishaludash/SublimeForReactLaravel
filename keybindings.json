@@ -1,0 +1,13 @@
+[
+	{ "keys": ["ctrl+alt+f"], "command": "js_prettier" },
+	{
+		"keys": ["ctrl+`"], "command": "toggle_terminus_panel",
+		"args": {
+			"config_name": "Default",
+			"panel_name": "output"
+		}
+	},
+	{ "keys": [ "ctrl+alt+m" ], "command": "un_pretty_json" },
+	{ "keys": ["ctrl+alt+i"], "command": "find_use" }
+]
+
